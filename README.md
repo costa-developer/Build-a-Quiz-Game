@@ -23,7 +23,7 @@ A simple JavaScript-based quiz game that simulates a multiple-choice question ro
 
 quiz-game/
 │
-├── index.js            # Main JavaScript file with logic
+├── script.js            # Main JavaScript file with logic
 ├── README.md           # Project documentation (you are here)
 
 ````
